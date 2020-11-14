@@ -1,0 +1,18 @@
+body {
+    background-color: royalblue;
+}
+h1 {color: salmon;}
+p {color: palegoldenrod;}
+
+.primary {
+    color: plum;
+    font-size: 40px;
+}
+
+.rainbow1 {
+    color: chartreuse;
+}
+
+.rainbow2 {
+    color: orange;
+}
